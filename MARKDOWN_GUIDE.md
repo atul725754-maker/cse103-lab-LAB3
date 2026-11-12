@@ -106,7 +106,7 @@ cse103-lab-LAB3/
 
 ```bash
 
-git clone https://github.com/[username]/cse103-lab-LAB3.git
+git clone https://github.com/atul72574-maker/cse103-lab-LAB3.git
 
 cd cse103-lab-LAB3
 
